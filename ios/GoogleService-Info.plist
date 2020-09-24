@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>850707948180-hidi5hmi86lvj75df4qfs4hnv4af9n6d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.850707948180-hidi5hmi86lvj75df4qfs4hnv4af9n6d</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>850707948180-8nao1m6i8iffmml6s6d6f03t2ai735n2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAg-TOq0wUNcpcH-8xGvySVFtrAnxH82ZY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>850707948180</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.farmtap</string>
+	<key>PROJECT_ID</key>
+	<string>farmtap-56c3c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>farmtap-56c3c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:850707948180:ios:e47f5b7e567210a54c8a81</string>
+	<key>DATABASE_URL</key>
+	<string>https://farmtap-56c3c.firebaseio.com</string>
+</dict>
+</plist>

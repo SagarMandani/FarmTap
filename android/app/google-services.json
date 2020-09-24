@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "850707948180",
+    "firebase_url": "https://farmtap-56c3c.firebaseio.com",
+    "project_id": "farmtap-56c3c",
+    "storage_bucket": "farmtap-56c3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850707948180:android:2926bfebf939022e4c8a81",
+        "android_client_info": {
+          "package_name": "com.farmtap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850707948180-8nao1m6i8iffmml6s6d6f03t2ai735n2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.farmtap",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "850707948180-2dklu689v758sl7lb39f3up37vbccfjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDciD4tOL4BCTtS4iprzqzA6nhS10Xohq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850707948180-2dklu689v758sl7lb39f3up37vbccfjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

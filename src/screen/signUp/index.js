@@ -58,10 +58,9 @@ class SignUp extends Component {
             if (verificationCode.length == 6) {
                 let user = await confirmResult.confirm(verificationCode);
                 if(user) {
-                    this.setState({ confirmResult: '', mobileNumber: '', name: '' });
-                    console.log('user --', user.user)
                     Alert.alert('FarmTap', `Verified! ${user.user.uid}`);
                     this.props.navigation.navigate('Home',{ name, user: user.user });
+                    this.setState({ confirmResult: '', mobileNumber: '', name: '' });
                 }               
             } else {
                 alert('Please enter a 6 digit OTP code.')

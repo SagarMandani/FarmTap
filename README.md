@@ -6,7 +6,7 @@
  In this tutorial, we'll make a simple mobile number verification in authentication with firebase.
   <hr />
  <div align="center">
-    <img src="src/screentShot/device-2020-09-26-090747.png" alt="Screenshot" height="400px width="300px"</img>
+    <img src="src/screenShot/device-2020-09-26-090747.png" alt="Screenshot" height="400px width="300px"</img>
     <img src="src/screenShot/device-2020-09-26-090812.png" alt="Screenshot" height="400px width="300px"</img>                                     
     <img src="src/screenShot/device-2020-09-26-090825.png" alt="Screenshot" height="400px width="300px"</img>
     <img src="src/screenShot/device-2020-09-26-090836.png" alt="Screenshot" height="400px width="300px"</img>                                     

@@ -14,19 +14,57 @@
 </div>
      
 <hr />                                                                                                
-Running the project
-<hr /> 
-Assuming you have all the requirements installed, you can setup and run the project by running:
+<h3>Installation and Usage</h3>
+<hr />
 
-yarn or npm install to install the dependencies
-run the following steps for your platform
+**Step 1:**
 
-Android
+Download or clone this repo by using the below link:
 
-only the first time you run the project
-yarn or npm start to start the metro bundler, in a dedicated terminal
+```
+git clone https://github.com/SagarMandani/farm-tap.git
+```
+
+**Step 2:**
+
+Go to project root folder
+
+```
+cd farm-tap
+```
+
+**Step 3:**
+
+Execute the following command in console to get the required dependencies:
+
+```
+npm or yarn install
+```
+
+**Step 4:**
+
+Make sure you have an ios Simulator or Android Emulator running or have an ios device with you:
+
+```
+npm or yarn start
+```
+
+* Android
+
 yarn android to run the Android application (remember to start a simulator or connect an Android phone)
 
-IOS
+```
+npx react-native run-android
+```
 
-cd ios pod install to install pod dependencies cd .. to come back to the root folder yarn or npm start to start the metro bundler, in a dedicated terminal yarn ios to run the iOS application (remember to start a simulator or connect an iPhone phone)
+* IOS
+
+```
+cd ios -> pod install to install pod dependencies -> cd ..
+```
+
+yarn ios to run the iOS application (remember to start a simulator or connect an iPhone phone)
+
+```
+npx react-native run-ios
+```
